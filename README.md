@@ -5,6 +5,6 @@
   - [ MUSINSA -> 매거진 -> 큐레이팅 ] 큐레이팅 내용을, 무신사 자체 브렌드인 무신사 스텐다드 상품 설명을 크롤링
   - tf-idf를 통해 크롤링한 큐레이팅 내용과 상품 설명의 빈도 비교를 통해 상품 추천
   - 결과
-  <wight="80%" src="(https://user-images.githubusercontent.com/95558633/205137066-33ac543e-3a2b-4d5c-8a88-d17a1337b695.png)">
+  <img wight="80%" src="(https://user-images.githubusercontent.com/95558633/205137066-33ac543e-3a2b-4d5c-8a88-d17a1337b695.png)">
   
   
