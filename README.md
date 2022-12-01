@@ -8,3 +8,7 @@
   <img wight="80%" src="https://user-images.githubusercontent.com/95558633/205137066-33ac543e-3a2b-4d5c-8a88-d17a1337b695.png">
   
   
+- 후기
+  - 상품 리뷰 내용을 크롤링하여 긍정적인 내용인지, 부정적인 내용인지 판단하기 위해 Logistic regression 모델로 학습
+  - 긍/부정 댓글의 데이터 불균형을 over/under sampling을 통해 해결해보고자 함 
+  
